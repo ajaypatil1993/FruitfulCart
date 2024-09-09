@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import Menus from "./components/Menus/Menus";
 import Banner from "../src/components/Banner/Banner";
-import Banner2 from "../src/components/Banner/Banner2";
+import Banner2 from "../src/components/Banner/banner2";
 import Banner3 from "../src/components/Banner/Banner3";
 import Footer from "./components/Footer/Footer";
 const App = () => {
