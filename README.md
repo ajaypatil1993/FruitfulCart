@@ -119,7 +119,7 @@ FruitfulCart/
 
 ## Live Preview 🌐
 
-Check out the live version of the site at: [FruitfulCart Live](https://fruitfulcart.example.com)
+Check out the live version of the site at: [FruitfulCart Live](https://fruitfulcart.netlify.app/)
 
 ## Contact 📬
 
